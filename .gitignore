@@ -1,0 +1,5 @@
+__pycache__/
+env/
+yolov8n.pt
+raw/
+detect/
